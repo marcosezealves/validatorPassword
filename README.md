@@ -36,6 +36,11 @@ payload:
   "password": "AbTp9!fok"<br>
 }
 
+retorno esperado:
+
+Se a senha for valida <b>true</b> = code: 200<br>
+se a senha for invalida <b>false</b> = code: 400
+
 <h3>Decisão:</h3>
 
 Após analise, identifiquei duas formas de realiazar o desafio, Expressão Regular e Logica de programação fazendo tratamento de cada função separada.
